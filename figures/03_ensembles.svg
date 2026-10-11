@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="347.04pt" viewBox="0 0 572.4 347.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-11T10:31:45.823649</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 347.04 
+L 572.4 347.04 
+L 572.4 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.451 186.5484 
+L 261.369 186.5484 
+Q 265.833 186.5484 265.833 182.1132 
+L 265.833 92.8548 
+Q 265.833 88.4196 261.369 88.4196 
+L 26.451 88.4196 
+Q 21.987 88.4196 21.987 92.8548 
+L 21.987 182.1132 
+Q 21.987 186.5484 26.451 186.5484 
+z
+" clip-path="url(#p01c1b5b852)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 305.451 186.5484 
+L 540.369 186.5484 
+Q 544.833 186.5484 544.833 182.1132 
+L 544.833 92.8548 
+Q 544.833 88.4196 540.369 88.4196 
+L 305.451 88.4196 
+Q 300.987 88.4196 300.987 92.8548 
+L 300.987 182.1132 
+Q 300.987 186.5484 305.451 186.5484 
+z
+" clip-path="url(#p01c1b5b852)" style="fill: #ffffff; stroke: #257c80; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 26.451 302.9724 
+L 261.369 302.9724 
+Q 265.833 302.9724 265.833 298.5372 
+L 265.833 209.2788 
+Q 265.833 204.8436 261.369 204.8436 
+L 26.451 204.8436 
+Q 21.987 204.8436 21.987 209.2788 
+L 21.987 298.5372 
+Q 21.987 302.9724 26.451 302.9724 
+z
+" clip-path="url(#p01c1b5b852)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 305.451 302.9724 
+L 540.369 302.9724 
+Q 544.833 302.9724 544.833 298.5372 
+L 544.833 209.2788 
+Q 544.833 204.8436 540.369 204.8436 
+L 305.451 204.8436 
+Q 300.987 204.8436 300.987 209.2788 
+L 300.987 298.5372 
+Q 300.987 302.9724 305.451 302.9724 
+z
+" clip-path="url(#p01c1b5b852)" style="fill: #ffffff; stroke: #257c80; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Serif'; text-anchor: start; fill: #16324f" x="12.78" y="26.604" transform="rotate(-0 12.78 26.604)">Statistical ensembles and reservoir exchange</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Serif'; text-anchor: start; fill: #52616b" x="12.78" y="48.78" transform="rotate(-0 12.78 48.78)">Original schematic — no calculated research results</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(132.274063 128.974469)">NVE</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(97.013906 140.172281)">Controlled: N, V, E</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(60.230313 151.370094)">Exchange: Isolated: no exchange</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #257c80" transform="translate(411.588906 128.974469)">NVT</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #257c80" transform="translate(376.32875 140.172281)">Controlled: N, V, T</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #257c80" transform="translate(382.474844 151.370094)">Exchange: Heat</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(132.835781 245.398469)">NPT</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(96.863906 256.596281)">Controlled: N, p, T</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(63.452969 267.794094)">Exchange: Heat + volume work</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #257c80" transform="translate(381.3225 245.398469)">Grand canonical</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #257c80" transform="translate(377.135781 256.596281)">Controlled: μ, V, T</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #257c80" transform="translate(353.002187 267.794094)">Exchange: Heat + particles</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p01c1b5b852">
+   <rect x="7.2" y="7.2" width="558" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "scope": "offline syntax, local links, metadata consistency and static inputs; not scientific convergence or engine execution",
+  "counts": {
+    "markdown_files": 48,
+    "internal_links": 379,
+    "display_equations": 50,
+    "inline_equations": 361,
+    "python_files": 17,
+    "notebooks": 6,
+    "references": 76,
+    "doi_records": 75
+  },
+  "errors": []
+}

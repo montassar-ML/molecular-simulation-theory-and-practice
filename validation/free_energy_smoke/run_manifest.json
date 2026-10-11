@@ -1,0 +1,8 @@
+{
+  "steps_per_window": 20000,
+  "burn_per_window": 4000,
+  "seed": 2026,
+  "windows": 13,
+  "wham_iterations": 267,
+  "status": "executed toy MC; WHAM point estimate, no automatic uncertainty"
+}

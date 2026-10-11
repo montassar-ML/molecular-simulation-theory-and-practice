@@ -1,0 +1,11 @@
+{
+  "ase": "3.29.0",
+  "atoms": 108,
+  "model": "ASE EMT Cu",
+  "lattice_A": 3.6,
+  "dt_fs": 1,
+  "steps": 300,
+  "equil": 100,
+  "temperature_target_K": 300,
+  "status": "short teaching run; fixed lattice is not equilibrium thermal expansion"
+}

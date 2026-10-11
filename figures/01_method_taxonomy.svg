@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="347.04pt" viewBox="0 0 572.4 347.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-11T10:31:45.664867</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 347.04 
+L 572.4 347.04 
+L 572.4 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 205.011 103.3884 
+L 367.389 103.3884 
+Q 371.853 103.3884 371.853 98.9532 
+L 371.853 70.6788 
+Q 371.853 66.2436 367.389 66.2436 
+L 205.011 66.2436 
+Q 200.547 66.2436 200.547 70.6788 
+L 200.547 98.9532 
+Q 200.547 103.3884 205.011 103.3884 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 15.291 172.6884 
+L 177.669 172.6884 
+Q 182.133 172.6884 182.133 168.2532 
+L 182.133 134.4348 
+Q 182.133 129.9996 177.669 129.9996 
+L 15.291 129.9996 
+Q 10.827 129.9996 10.827 134.4348 
+L 10.827 168.2532 
+Q 10.827 172.6884 15.291 172.6884 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 284.222785 101.76578 
+Q 191.338291 116.694275 99.668052 131.427613 
+" clip-path="url(#p25b365e567)" style="fill: none; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 104.788076 133.035517 
+L 99.668052 131.427613 
+L 104.026389 128.296336 
+z
+" clip-path="url(#p25b365e567)" style="fill: #52616b; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 205.011 172.6884 
+L 367.389 172.6884 
+Q 371.853 172.6884 371.853 168.2532 
+L 371.853 134.4348 
+Q 371.853 129.9996 367.389 129.9996 
+L 205.011 129.9996 
+Q 200.547 129.9996 200.547 134.4348 
+L 200.547 168.2532 
+Q 200.547 172.6884 205.011 172.6884 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 286.2 103.446804 
+Q 286.2 116.693427 286.2 128.710213 
+" clip-path="url(#p25b365e567)" style="fill: none; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 288.6 123.910213 
+L 286.2 128.710213 
+L 283.8 123.910213 
+z
+" clip-path="url(#p25b365e567)" style="fill: #52616b; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 394.731 172.6884 
+L 557.109 172.6884 
+Q 561.573 172.6884 561.573 168.2532 
+L 561.573 134.4348 
+Q 561.573 129.9996 557.109 129.9996 
+L 394.731 129.9996 
+Q 390.267 129.9996 390.267 134.4348 
+L 390.267 168.2532 
+Q 390.267 172.6884 394.731 172.6884 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 288.177215 101.76578 
+Q 381.061709 116.694275 472.731948 131.427613 
+" clip-path="url(#p25b365e567)" style="fill: none; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 468.373611 128.296336 
+L 472.731948 131.427613 
+L 467.611924 133.035517 
+z
+" clip-path="url(#p25b365e567)" style="fill: #52616b; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 15.291 269.7084 
+L 177.669 269.7084 
+Q 182.133 269.7084 182.133 265.2732 
+L 182.133 209.2788 
+Q 182.133 204.8436 177.669 204.8436 
+L 15.291 204.8436 
+Q 10.827 204.8436 10.827 209.2788 
+L 10.827 265.2732 
+Q 10.827 269.7084 15.291 269.7084 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 96.48 172.749511 
+Q 96.48 188.767574 96.48 203.5558 
+" clip-path="url(#p25b365e567)" style="fill: none; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 98.88 198.7558 
+L 96.48 203.5558 
+L 94.08 198.7558 
+z
+" clip-path="url(#p25b365e567)" style="fill: #52616b; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 205.011 269.7084 
+L 367.389 269.7084 
+Q 371.853 269.7084 371.853 265.2732 
+L 371.853 209.2788 
+Q 371.853 204.8436 367.389 204.8436 
+L 205.011 204.8436 
+Q 200.547 204.8436 200.547 209.2788 
+L 200.547 265.2732 
+Q 200.547 269.7084 205.011 269.7084 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 286.2 172.749511 
+Q 286.2 188.767574 286.2 203.5558 
+" clip-path="url(#p25b365e567)" style="fill: none; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 288.6 198.7558 
+L 286.2 203.5558 
+L 283.8 198.7558 
+z
+" clip-path="url(#p25b365e567)" style="fill: #52616b; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 394.731 269.7084 
+L 557.109 269.7084 
+Q 561.573 269.7084 561.573 265.2732 
+L 561.573 209.2788 
+Q 561.573 204.8436 557.109 204.8436 
+L 394.731 204.8436 
+Q 390.267 204.8436 390.267 209.2788 
+L 390.267 265.2732 
+Q 390.267 269.7084 394.731 269.7084 
+z
+" clip-path="url(#p25b365e567)" style="fill: #ffffff; stroke: #16324f; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 475.92 172.749511 
+Q 475.92 188.767574 475.92 203.5558 
+" clip-path="url(#p25b365e567)" style="fill: none; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 478.32 198.7558 
+L 475.92 203.5558 
+L 473.52 198.7558 
+z
+" clip-path="url(#p25b365e567)" style="fill: #52616b; stroke: #52616b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Serif'; text-anchor: start; fill: #16324f" x="12.78" y="26.604" transform="rotate(-0 12.78 26.604)">Molecular simulation: method taxonomy</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Serif'; text-anchor: start; fill: #52616b" x="12.78" y="48.78" transform="rotate(-0 12.78 48.78)">Original schematic — no calculated research results</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; text-anchor: middle; fill: #16324f" x="286.2" y="87.575375" transform="rotate(-0 286.2 87.575375)">Scientific question</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; text-anchor: middle; fill: #16324f" x="96.48" y="154.103375" transform="rotate(-0 96.48 154.103375)">Equilibrium distributions</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; text-anchor: middle; fill: #16324f" x="286.2" y="154.032281" transform="rotate(-0 286.2 154.032281)">Physical or model dynamics</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; text-anchor: middle; fill: #16324f" x="475.92" y="154.032281" transform="rotate(-0 475.92 154.032281)">Free-energy exploration</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(66.001875 234.436469)">MC · GCMC</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(51.094063 245.634281)">PIMD equilibrium</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(220.835156 234.436469)">Classical · BOMD · CPMD</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(215.720312 245.634281)">Reactive · CG · MLIP · KMC</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(410.464531 234.294281)">Umbrella · Metadynamics</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; fill: #16324f" transform="translate(431.265312 245.634281)">Replica exchange</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Serif'; text-anchor: start; fill: #52616b" x="15.57" y="314.892" transform="rotate(-0 15.57 314.892)">Categories overlap: a learned potential can supply forces to classical MD or PIMD.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p25b365e567">
+   <rect x="7.2" y="7.2" width="558" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

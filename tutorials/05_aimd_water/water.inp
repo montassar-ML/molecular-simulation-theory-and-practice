@@ -1,0 +1,89 @@
+# UNEXECUTED TEACHING INPUT: classical nuclei, BOMD, deliberately short.
+# Run from this directory after python prepare.py.
+# Ensure BASIS_MOLOPT and GTH_POTENTIALS are found by your CP2K build/data path.
+&GLOBAL
+  PROJECT water8_bomd
+  RUN_TYPE MD
+  PRINT_LEVEL LOW
+&END GLOBAL
+&FORCE_EVAL
+  METHOD Quickstep
+  &DFT
+    BASIS_SET_FILE_NAME BASIS_MOLOPT
+    POTENTIAL_FILE_NAME GTH_POTENTIALS
+    &QS
+      METHOD GPW
+      EPS_DEFAULT 1.0E-12
+    &END QS
+    &MGRID
+      CUTOFF 400
+      REL_CUTOFF 60
+    &END MGRID
+    &SCF
+      EPS_SCF 1.0E-7
+      MAX_SCF 100
+      SCF_GUESS ATOMIC
+      &OT
+        MINIMIZER DIIS
+        PRECONDITIONER FULL_SINGLE_INVERSE
+      &END OT
+      &OUTER_SCF
+        EPS_SCF 1.0E-7
+        MAX_SCF 10
+      &END OUTER_SCF
+    &END SCF
+    &XC
+      &XC_FUNCTIONAL PBE
+      &END XC_FUNCTIONAL
+    &END XC
+    &POISSON
+      PERIODIC XYZ
+    &END POISSON
+  &END DFT
+  &SUBSYS
+    &CELL
+      ABC 6.214 6.214 6.214
+      PERIODIC XYZ
+    &END CELL
+    &TOPOLOGY
+      COORD_FILE_NAME water8_relaxed.xyz
+      COORD_FILE_FORMAT XYZ
+    &END TOPOLOGY
+    &KIND H
+      BASIS_SET DZVP-MOLOPT-SR-GTH
+      POTENTIAL GTH-PBE-q1
+    &END KIND
+    &KIND O
+      BASIS_SET DZVP-MOLOPT-SR-GTH
+      POTENTIAL GTH-PBE-q6
+    &END KIND
+  &END SUBSYS
+&END FORCE_EVAL
+&MOTION
+  &MD
+    ENSEMBLE NVT
+    STEPS 200
+    TIMESTEP 0.5
+    TEMPERATURE 300
+    &THERMOSTAT
+      TYPE CSVR
+      &CSVR
+        TIMECON 100
+      &END CSVR
+    &END THERMOSTAT
+  &END MD
+  &PRINT
+    &TRAJECTORY
+      FORMAT XYZ
+      &EACH
+        MD 5
+      &END EACH
+    &END TRAJECTORY
+    &RESTART
+      BACKUP_COPIES 2
+      &EACH
+        MD 50
+      &END EACH
+    &END RESTART
+  &END PRINT
+&END MOTION

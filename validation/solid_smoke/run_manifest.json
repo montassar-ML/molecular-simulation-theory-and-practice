@@ -1,0 +1,18 @@
+{
+  "phase": "solid",
+  "steps": 1000,
+  "equil": 500,
+  "dt": 0.004,
+  "stride": 10,
+  "seed": 2026,
+  "ncells": 3,
+  "temperature": 0.15,
+  "out": "validation/solid_smoke",
+  "density": 0.95,
+  "cutoff": 2.0,
+  "potential": "force-shifted Lennard-Jones",
+  "units": "reduced LJ",
+  "status": "executed teaching simulation; not a converged material property",
+  "elapsed_seconds": 0.978967503000149,
+  "numpy": "2.3.5"
+}

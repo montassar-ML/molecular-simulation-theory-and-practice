@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.png binary
+*.npz binary
+*.traj binary
+*.zip binary
+*.ipynb text eol=lf
+*.svg text eol=lf
+*.bib text eol=lf

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this educational repository and the original scientific/software references relevant to your work."
+title: "Molecular Simulation: From Statistical Mechanics to Atomistic Applications"
+type: software
+authors:
+  - family-names: "Bouzidi"
+    given-names: "Montassar"
+version: "0.1.0"
+date-released: 2026-10-11
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - molecular simulation
+  - statistical mechanics
+  - molecular dynamics
+  - Monte Carlo
+  - uncertainty quantification
+  - computational chemistry education
+abstract: "An educational course with theory, original numerical exercises, analysis notebooks, resource planning, verified references and explicit validation limits."

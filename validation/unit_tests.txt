@@ -1,0 +1,19 @@
+test_ar1_correlation (test_numerics.NumericalTests.test_ar1_correlation) ... ok
+test_ballistic_msd (test_numerics.NumericalTests.test_ballistic_msd) ... ok
+test_block_accounting (test_numerics.NumericalTests.test_block_accounting) ... ok
+test_cutoff_continuity (test_numerics.NumericalTests.test_cutoff_continuity) ... ok
+test_disconnected_wham_rejected (test_numerics.NumericalTests.test_disconnected_wham_rejected) ... ok
+test_energy_error_decreases (test_numerics.NumericalTests.test_energy_error_decreases) ... ok
+test_force_is_energy_gradient (test_numerics.NumericalTests.test_force_is_energy_gradient) ... ok
+test_ideal_gas_rdf_same_and_cross (test_numerics.NumericalTests.test_ideal_gas_rdf_same_and_cross) ... ok
+test_ideal_gcmc_poisson (test_numerics.NumericalTests.test_ideal_gcmc_poisson) ... ok
+test_kmc_time_weights (test_numerics.NumericalTests.test_kmc_time_weights) ... ok
+test_known_diffusion_line (test_numerics.NumericalTests.test_known_diffusion_line) ... ok
+test_resource_arithmetic (test_numerics.NumericalTests.test_resource_arithmetic) ... ok
+test_verlet_reversible (test_numerics.NumericalTests.test_verlet_reversible) ... ok
+test_wham_analytical_probabilities (test_numerics.NumericalTests.test_wham_analytical_probabilities) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 1.076s
+
+OK

@@ -1,0 +1,18 @@
+Licensing for Molecular Simulation: From Statistical Mechanics to Atomistic Applications
+
+Copyright (c) 2026 Montassar Bouzidi, for original contributions in this repository.
+
+Original code (Python scripts, tests, original engine inputs, notebook code cells,
+and workflow configuration): MIT License. See licenses/MIT.txt.
+
+Original educational prose, notebook prose, and original figures:
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+See licenses/CC-BY-4.0.txt and https://creativecommons.org/licenses/by/4.0/.
+
+Third-party files are excluded from the original-contribution licenses and retain
+their own notices. The RASPA3 example assets are MIT licensed by their original
+authors; see licenses/RASPA3-MIT.txt, ATTRIBUTION.md, and
+data/THIRD_PARTY_PROVENANCE.json.
+
+Citing this course does not replace citation of original methods, model parameters
+and software. No third-party endorsement is implied.

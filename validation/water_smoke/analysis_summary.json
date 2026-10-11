@@ -1,0 +1,7 @@
+{
+  "hb_definition": "O-O <0.35 nm, donor-H-acceptor >150 deg",
+  "mean_bonds_per_water": 1.5872360269135968,
+  "Na_O_cutoff_nm": 0.32,
+  "mean_Na_O_neighbors": 5.411764705882353,
+  "warning": "Illustrative operational cutoffs; short trajectory, no validated material prediction."
+}

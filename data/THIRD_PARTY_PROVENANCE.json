@@ -1,0 +1,50 @@
+[
+  {
+    "path": "tutorials/04_gcmc_adsorption/raspa3/MFI_SI.cif",
+    "source_url": "https://raw.githubusercontent.com/iRASPA/RASPA3/564b89329c1fd302b12c382995ad08d25d2c41ba/examples/basic/8_mc_adsorption_of_methane_in_mfi/MFI_SI.cif",
+    "sha256": "1be57c99be89150670cde2b33f6e403f325090cb8f2a91aa498380a81c080f4b",
+    "license": "MIT",
+    "source_commit": "564b89329c1fd302b12c382995ad08d25d2c41ba"
+  },
+  {
+    "path": "tutorials/04_gcmc_adsorption/raspa3/force_field.json",
+    "source_url": "https://raw.githubusercontent.com/iRASPA/RASPA3/564b89329c1fd302b12c382995ad08d25d2c41ba/examples/basic/8_mc_adsorption_of_methane_in_mfi/force_field.json",
+    "sha256": "c547231b59a3e49363436160e1e3f0aec30a54a226ae4af8af2d18a4cb46b6dd",
+    "license": "MIT",
+    "source_commit": "564b89329c1fd302b12c382995ad08d25d2c41ba",
+    "teaching_sha256": "a4f6c468c2bcf21a977c2d1572e4f25c3dc3ae28f4432ef10bb87e1ff9d1aa73",
+    "modifications": [
+      "Correct Si pseudoatom element and display label from Al to Si; numerical LJ parameters preserved.",
+      "Set CutOffVDW explicitly to 12.0 Angstrom.",
+      "Reformat JSON; sha256 retains upstream source hash, teaching_sha256 identifies the bundled version."
+    ]
+  },
+  {
+    "path": "tutorials/04_gcmc_adsorption/raspa3/methane.json",
+    "source_url": "https://raw.githubusercontent.com/iRASPA/RASPA3/564b89329c1fd302b12c382995ad08d25d2c41ba/examples/basic/8_mc_adsorption_of_methane_in_mfi/methane.json",
+    "sha256": "1c1ceba281db00b1669b4383dc5ef7d61d102b048962fb9470dfa93272126a73",
+    "license": "MIT",
+    "source_commit": "564b89329c1fd302b12c382995ad08d25d2c41ba"
+  },
+  {
+    "path": "tutorials/04_gcmc_adsorption/raspa3/upstream_simulation.json",
+    "source_url": "https://raw.githubusercontent.com/iRASPA/RASPA3/564b89329c1fd302b12c382995ad08d25d2c41ba/examples/basic/8_mc_adsorption_of_methane_in_mfi/simulation.json",
+    "sha256": "a9e54c3c7db83420d0776e1621576134f8d286d81f889385a842ae2b879af5fc",
+    "license": "MIT",
+    "source_commit": "564b89329c1fd302b12c382995ad08d25d2c41ba"
+  },
+  {
+    "path": "tutorials/04_gcmc_adsorption/raspa3/upstream_run.py",
+    "source_url": "https://raw.githubusercontent.com/iRASPA/RASPA3/564b89329c1fd302b12c382995ad08d25d2c41ba/examples/basic/8_mc_adsorption_of_methane_in_mfi/run.py",
+    "sha256": "15edee05a1b62a7ea88926a6cdbd65800194dfd7978b991e608f5d30ebe9be64",
+    "license": "MIT",
+    "source_commit": "564b89329c1fd302b12c382995ad08d25d2c41ba"
+  },
+  {
+    "path": "licenses/RASPA3-MIT.txt",
+    "source_url": "https://raw.githubusercontent.com/iRASPA/RASPA3/564b89329c1fd302b12c382995ad08d25d2c41ba/LICENSE.md",
+    "sha256": "e9440b909d3500cc6afbd4c313788fdaacd4651a8f3915a37c41d2529c116d2a",
+    "license": "MIT",
+    "source_commit": "564b89329c1fd302b12c382995ad08d25d2c41ba"
+  }
+]

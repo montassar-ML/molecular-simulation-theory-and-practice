@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-11",
+  "scope": "non-DOI Markdown links; DOI identities checked through reference_audit.json",
+  "results": [
+    {
+      "url": "https://academic.oup.com/book/27866",
+      "status": 403,
+      "note": "HTTP response; access restrictions can prevent verification"
+    },
+    {
+      "url": "https://ase.gitlab.io/ase/",
+      "status": 200,
+      "final_url": "https://ase.gitlab.io/ase/"
+    },
+    {
+      "url": "https://ase.gitlab.io/ase/ase/calculators/emt.html",
+      "status": 200,
+      "final_url": "https://ase.gitlab.io/ase/ase/calculators/emt.html"
+    },
+    {
+      "url": "https://ase.gitlab.io/ase/examples_generated/03-tutorials/md.html",
+      "status": 200,
+      "final_url": "https://ase.gitlab.io/ase/examples_generated/03-tutorials/md.html"
+    },
+    {
+      "url": "https://docs.ipi-code.org/",
+      "status": 200,
+      "final_url": "https://docs.ipi-code.org/"
+    },
+    {
+      "url": "https://docs.lammps.org/",
+      "status": 200,
+      "final_url": "https://docs.lammps.org/"
+    },
+    {
+      "url": "https://docs.lammps.org/Speed_packages.html",
+      "status": 200,
+      "final_url": "https://docs.lammps.org/Speed_packages.html"
+    },
+    {
+      "url": "https://docs.mdanalysis.org/",
+      "status": 200,
+      "final_url": "https://docs.mdanalysis.org/"
+    },
+    {
+      "url": "https://docs.openmm.org/latest/userguide/",
+      "status": 200,
+      "final_url": "https://docs.openmm.org/latest/userguide/"
+    },
+    {
+      "url": "https://docs.openmm.org/latest/userguide/library/01_introduction.html",
+      "status": 200,
+      "final_url": "https://docs.openmm.org/latest/userguide/library/01_introduction.html"
+    },
+    {
+      "url": "https://github.com/i-pi/i-pi",
+      "status": 200,
+      "final_url": "https://github.com/i-pi/i-pi"
+    },
+    {
+      "url": "https://github.com/iRASPA/RASPA3",
+      "status": 200,
+      "final_url": "https://github.com/iRASPA/RASPA3"
+    },
+    {
+      "url": "https://github.com/lammpstutorials/lammpstutorials-inputs",
+      "status": 200,
+      "final_url": "https://github.com/lammpstutorials/lammpstutorials-inputs"
+    },
+    {
+      "url": "https://github.com/lammpstutorials/lammpstutorials.github.io",
+      "status": 200,
+      "final_url": "https://github.com/lammpstutorials/lammpstutorials.github.io"
+    },
+    {
+      "url": "https://github.com/montassar-ML",
+      "status": 200,
+      "final_url": "https://github.com/montassar-ML"
+    },
+    {
+      "url": "https://github.com/openmm/openmm-cookbook",
+      "status": 200,
+      "final_url": "https://github.com/openmm/openmm-cookbook"
+    },
+    {
+      "url": "https://iraspa.github.io/RASPA3/",
+      "status": 200,
+      "final_url": "https://iraspa.github.io/RASPA3/"
+    },
+    {
+      "url": "https://iraspa.github.io/RASPA3/examples_basic.html",
+      "status": 200,
+      "final_url": "https://iraspa.github.io/RASPA3/examples_basic.html"
+    },
+    {
+      "url": "https://manual.cp2k.org/",
+      "status": 200,
+      "final_url": "https://manual.cp2k.org/trunk/"
+    },
+    {
+      "url": "https://manual.gromacs.org/current/",
+      "status": 200,
+      "final_url": "https://manual.gromacs.org/current/"
+    },
+    {
+      "url": "https://manual.gromacs.org/current/user-guide/mdrun-performance.html",
+      "status": 200,
+      "final_url": "https://manual.gromacs.org/current/user-guide/mdrun-performance.html"
+    },
+    {
+      "url": "https://pages.nist.gov/feasst/OVERVIEW.html",
+      "status": 200,
+      "final_url": "https://pages.nist.gov/feasst/OVERVIEW.html"
+    },
+    {
+      "url": "https://shop.elsevier.com/books/understanding-molecular-simulation/frenkel/978-0-323-90292-2",
+      "status": 200,
+      "final_url": "https://shop.elsevier.com/books/understanding-molecular-simulation/frenkel/978-0-323-90292-2"
+    },
+    {
+      "url": "https://tutorials.gromacs.org/",
+      "status": 200,
+      "final_url": "https://tutorials.gromacs.org/"
+    },
+    {
+      "url": "https://www.cp2k.org/exercises:common:aimd",
+      "status": 200,
+      "final_url": "https://www.cp2k.org/exercises:common:aimd"
+    },
+    {
+      "url": "https://www.cp2k.org/gpu",
+      "status": 200,
+      "final_url": "https://www.cp2k.org/gpu"
+    },
+    {
+      "url": "https://www.ks.uiuc.edu/Research/vmd/",
+      "status": 200,
+      "final_url": "https://www.ks.uiuc.edu/Research/vmd/"
+    },
+    {
+      "url": "https://www.ks.uiuc.edu/Research/vmd/current/LICENSE.html",
+      "status": 200,
+      "final_url": "https://www.ks.uiuc.edu/Research/vmd/current/LICENSE.html"
+    },
+    {
+      "url": "https://www.ks.uiuc.edu/Training/Tutorials/vmd/tutorial-html/",
+      "status": 200,
+      "final_url": "https://www.ks.uiuc.edu/Training/Tutorials/vmd/tutorial-html/"
+    },
+    {
+      "url": "https://www.lammps.org/documentation/tutorials/",
+      "status": 200,
+      "final_url": "https://www.lammps.org/documentation/tutorials/"
+    },
+    {
+      "url": "https://www.mdanalysis.org/2024/11/22/release-2.8.0/",
+      "status": 200,
+      "final_url": "https://www.mdanalysis.org/2024/11/22/release-2.8.0/"
+    },
+    {
+      "url": "https://www.mdanalysis.org/learning_MDAnalysis/",
+      "status": 200,
+      "final_url": "https://www.mdanalysis.org/learning_MDAnalysis/"
+    },
+    {
+      "url": "https://www.ovito.org/manual/",
+      "status": 200,
+      "final_url": "https://www.ovito.org/manual/"
+    },
+    {
+      "url": "https://www.ovito.org/manual/licenses/index.html",
+      "status": 200,
+      "final_url": "https://www.ovito.org/manual/licenses/index.html"
+    },
+    {
+      "url": "https://www.ovito.org/manual/tutorials/",
+      "status": 200,
+      "final_url": "https://www.ovito.org/manual/tutorials/"
+    },
+    {
+      "url": "https://www.plumed.org/doc-v2.9/user-doc/html/index.html",
+      "status": 200,
+      "final_url": "https://www.plumed.org/doc-v2.9/user-doc/html/index.html"
+    },
+    {
+      "url": "https://www.plumed.org/doc-v2.9/user-doc/html/tutorials.html",
+      "status": 200,
+      "final_url": "https://www.plumed.org/doc-v2.9/user-doc/html/tutorials.html"
+    }
+  ]
+}

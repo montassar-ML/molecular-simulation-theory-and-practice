@@ -1,0 +1,28 @@
+# UNEXECUTED LAMMPS teaching variant: potential-shifted lj/cut.
+# This is NOT the force-shifted Python Hamiltonian.
+units lj
+atom_style atomic
+boundary p p p
+lattice fcc 0.75
+region cell block 0 3 0 3 0 3
+create_box 1 cell
+create_atoms 1 box
+mass 1 1.0
+pair_style lj/cut 2.0
+pair_coeff 1 1 1.0 1.0 2.0
+pair_modify shift yes
+neighbor 0.3 bin
+neigh_modify every 1 delay 0 check yes
+velocity all create 1.2 2026 mom yes rot no dist gaussian
+timestep 0.004
+thermo 100
+thermo_style custom step temp pe ke etotal press
+fix integrate all nve
+fix bath all langevin 1.2 1.2 1.0 2027 zero yes
+run 1000
+unfix bath
+reset_timestep 0
+dump traj all custom 10 trajectory.lammpstrj id type xu yu zu vx vy vz
+dump_modify traj sort id
+run 4000
+write_restart lj.restart

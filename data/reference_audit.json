@@ -1,0 +1,3363 @@
+[
+  {
+    "key": "abraham2015",
+    "doi": "10.1016/j.softx.2015.06.001",
+    "title": "GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers",
+    "authors": [
+      "Abraham, Mark James",
+      "Murtola, Teemu",
+      "Schulz, Roland",
+      "Páll, Szilárd",
+      "Smith, Jeremy C.",
+      "Hess, Berk",
+      "Lindahl, Erik"
+    ],
+    "journal": "SoftwareX",
+    "year_used": 2015,
+    "volume": "1-2",
+    "issue": null,
+    "pages_or_article_used": "19-25",
+    "crossref_page": "19-25",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/j.softx.2015.06.001",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "allen2017",
+    "doi": "10.1093/oso/9780198803195.001.0001",
+    "title": "Computer Simulation of Liquids",
+    "authors": [
+      "Allen, Michael P.",
+      "Tildesley, Dominic J."
+    ],
+    "journal": "",
+    "year_used": 2017,
+    "volume": null,
+    "issue": null,
+    "pages_or_article_used": "",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          22
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          22
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          23
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1093/oso/9780198803195.001.0001",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "andersen1980",
+    "doi": "10.1063/1.439486",
+    "title": "Molecular dynamics simulations at constant pressure and/or temperature",
+    "authors": [
+      "Andersen, Hans C."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1980,
+    "volume": "72",
+    "issue": "4",
+    "pages_or_article_used": "2384-2393",
+    "crossref_page": "2384-2393",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1980,
+          2,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1980,
+          2,
+          15
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.439486",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "bai2013",
+    "doi": "10.1021/jp4074224",
+    "title": "TraPPE-zeo: Transferable Potentials for Phase Equilibria Force Field for All-Silica Zeolites",
+    "authors": [
+      "Bai, Peng",
+      "Tsapatsis, Michael",
+      "Siepmann, J. Ilja"
+    ],
+    "journal": "The Journal of Physical Chemistry C",
+    "year_used": 2013,
+    "volume": "117",
+    "issue": "46",
+    "pages_or_article_used": "24375-24387",
+    "crossref_page": "24375-24387",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          11
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          21
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          11
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/jp4074224",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "barducci2008",
+    "doi": "10.1103/physrevlett.100.020603",
+    "title": "Well-Tempered Metadynamics: A Smoothly Converging and Tunable Free-Energy Method",
+    "authors": [
+      "Barducci, Alessandro",
+      "Bussi, Giovanni",
+      "Parrinello, Michele"
+    ],
+    "journal": "Physical Review Letters",
+    "year_used": 2008,
+    "volume": "100",
+    "issue": "2",
+    "pages_or_article_used": "020603",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2008,
+          1,
+          18
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2008,
+          1,
+          18
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevlett.100.020603",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "batatia2025",
+    "doi": "10.1063/5.0297006",
+    "title": "A foundation model for atomistic materials chemistry",
+    "authors": [
+      "Batatia, Ilyes",
+      "Benner, Philipp",
+      "Chiang, Yuan",
+      "Elena, Alin M.",
+      "Kovács, Dávid P.",
+      "Riebesell, Janosh",
+      "Advincula, Xavier R.",
+      "Asta, Mark",
+      "Avaylon, Matthew",
+      "Baldwin, William J.",
+      "Berger, Fabian",
+      "Bernstein, Noam",
+      "Bhowmik, Arghya",
+      "Bigi, Filippo",
+      "Blau, Samuel M.",
+      "Cărare, Vlad",
+      "Ceriotti, Michele",
+      "Chong, Sanggyu",
+      "Darby, James P.",
+      "De, Sandip",
+      "Della Pia, Flaviano",
+      "Deringer, Volker L.",
+      "Elijošius, Rokas",
+      "El-Machachi, Zakariya",
+      "Fako, Edvin",
+      "Falcioni, Fabio",
+      "Ferrari, Andrea C.",
+      "Gardner, John L. A.",
+      "Gawkowski, Mikołaj J.",
+      "Genreith-Schriever, Annalena",
+      "George, Janine",
+      "Goodall, Rhys E. A.",
+      "Grandel, Jonas",
+      "Grey, Clare P.",
+      "Grigorev, Petr",
+      "Han, Shuang",
+      "Handley, Will",
+      "Heenen, Hendrik H.",
+      "Hermansson, Kersti",
+      "Ho, Cheuk Hin",
+      "Hofmann, Stephan",
+      "Holm, Christian",
+      "Jaafar, Jad",
+      "Jakob, Konstantin S.",
+      "Jung, Hyunwook",
+      "Kapil, Venkat",
+      "Kaplan, Aaron D.",
+      "Karimitari, Nima",
+      "Kermode, James R.",
+      "Kourtis, Panagiotis",
+      "Kroupa, Namu",
+      "Kullgren, Jolla",
+      "Kuner, Matthew C.",
+      "Kuryla, Domantas",
+      "Liepuoniute, Guoda",
+      "Lin, Chen",
+      "Margraf, Johannes T.",
+      "Magdău, Ioan-Bogdan",
+      "Michaelides, Angelos",
+      "Moore, J. Harry",
+      "Naik, Aakash A.",
+      "Niblett, Samuel P.",
+      "Norwood, Sam Walton",
+      "O’Neill, Niamh",
+      "Ortner, Christoph",
+      "Persson, Kristin A.",
+      "Reuter, Karsten",
+      "Rosen, Andrew S.",
+      "Rosset, Louise A. M.",
+      "Schaaf, Lars L.",
+      "Schran, Christoph",
+      "Shi, Benjamin X.",
+      "Sivonxay, Eric",
+      "Stenczel, Tamás K.",
+      "Sutton, Christopher",
+      "Svahn, Viktor",
+      "Swinburne, Thomas D.",
+      "Tilly, Jules",
+      "van der Oord, Cas",
+      "Vargas, Santiago",
+      "Varga-Umbrich, Eszter",
+      "Vegge, Tejs",
+      "Vondrák, Martin",
+      "Wang, Yangshuai",
+      "Witt, William C.",
+      "Wolf, Thomas",
+      "Zills, Fabian",
+      "Csányi, Gábor"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2025,
+    "volume": "163",
+    "issue": "18",
+    "pages_or_article_used": "184110",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          13
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          14
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          13
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/5.0297006",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "behler2007",
+    "doi": "10.1103/physrevlett.98.146401",
+    "title": "Generalized Neural-Network Representation of High-Dimensional Potential-Energy Surfaces",
+    "authors": [
+      "Behler, Jörg",
+      "Parrinello, Michele"
+    ],
+    "journal": "Physical Review Letters",
+    "year_used": 2007,
+    "volume": "98",
+    "issue": "14",
+    "pages_or_article_used": "146401",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2007,
+          4,
+          2
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2007,
+          4,
+          2
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevlett.98.146401",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "berendsen1984",
+    "doi": "10.1063/1.448118",
+    "title": "Molecular dynamics with coupling to an external bath",
+    "authors": [
+      "Berendsen, H. J. C.",
+      "Postma, J. P. M.",
+      "van Gunsteren, W. F.",
+      "DiNola, A.",
+      "Haak, J. R."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1984,
+    "volume": "81",
+    "issue": "8",
+    "pages_or_article_used": "3684-3690",
+    "crossref_page": "3684-3690",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1984,
+          10,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1984,
+          10,
+          15
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.448118",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "bortz1975",
+    "doi": "10.1016/0021-9991(75)90060-1",
+    "title": "A new algorithm for Monte Carlo simulation of Ising spin systems",
+    "authors": [
+      "Bortz, A.B.",
+      "Kalos, M.H.",
+      "Lebowitz, J.L."
+    ],
+    "journal": "Journal of Computational Physics",
+    "year_used": 1975,
+    "volume": "17",
+    "issue": "1",
+    "pages_or_article_used": "10-18",
+    "crossref_page": "10-18",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1975,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1975,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/0021-9991(75)90060-1",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "bussi2007",
+    "doi": "10.1063/1.2408420",
+    "title": "Canonical sampling through velocity rescaling",
+    "authors": [
+      "Bussi, Giovanni",
+      "Donadio, Davide",
+      "Parrinello, Michele"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2007,
+    "volume": "126",
+    "issue": "1",
+    "pages_or_article_used": "014101",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          3
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          7
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          3
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/1.2408420",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "car1985",
+    "doi": "10.1103/physrevlett.55.2471",
+    "title": "Unified Approach for Molecular Dynamics and Density-Functional Theory",
+    "authors": [
+      "Car, R.",
+      "Parrinello, M."
+    ],
+    "journal": "Physical Review Letters",
+    "year_used": 1985,
+    "volume": "55",
+    "issue": "22",
+    "pages_or_article_used": "2471-2474",
+    "crossref_page": "2471-2474",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1985,
+          11,
+          25
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          1985,
+          11,
+          25
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevlett.55.2471",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "ceperley1995",
+    "doi": "10.1103/revmodphys.67.279",
+    "title": "Path integrals in the theory of condensed helium",
+    "authors": [
+      "Ceperley, D. M."
+    ],
+    "journal": "Reviews of Modern Physics",
+    "year_used": 1995,
+    "volume": "67",
+    "issue": "2",
+    "pages_or_article_used": "279-355",
+    "crossref_page": "279-355",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1995,
+          4,
+          1
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          1995,
+          4,
+          1
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/revmodphys.67.279",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "chen2022",
+    "doi": "10.1038/s43588-022-00349-3",
+    "title": "A universal graph deep learning interatomic potential for the periodic table",
+    "authors": [
+      "Chen, Chi",
+      "Ong, Shyue Ping"
+    ],
+    "journal": "Nature Computational Science",
+    "year_used": 2022,
+    "volume": "2",
+    "issue": "11",
+    "pages_or_article_used": "718-728",
+    "crossref_page": "718-728",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          28
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          28
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/s43588-022-00349-3",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "chen2023",
+    "doi": "10.1038/s42256-023-00716-3",
+    "title": "CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling",
+    "authors": [
+      "Deng, Bowen",
+      "Zhong, Peichen",
+      "Jun, KyuJung",
+      "Riebesell, Janosh",
+      "Han, Kevin",
+      "Bartel, Christopher J.",
+      "Ceder, Gerbrand"
+    ],
+    "journal": "Nature Machine Intelligence",
+    "year_used": 2023,
+    "volume": "5",
+    "issue": "9",
+    "pages_or_article_used": "1031-1041",
+    "crossref_page": "1031-1041",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/s42256-023-00716-3",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "cheng2019",
+    "doi": "10.1073/pnas.1815117116",
+    "title": "Ab initio thermodynamics of liquid and solid water",
+    "authors": [
+      "Cheng, Bingqing",
+      "Engel, Edgar A.",
+      "Behler, Jörg",
+      "Dellago, Christoph",
+      "Ceriotti, Michele"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year_used": 2019,
+    "volume": "116",
+    "issue": "4",
+    "pages_or_article_used": "1110-1115",
+    "crossref_page": "1110-1115",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          22
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1073/pnas.1815117116",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "chodera2016",
+    "doi": "10.1021/acs.jctc.5b00784",
+    "title": "A Simple Method for Automated Equilibration Detection in Molecular Simulations",
+    "authors": [
+      "Chodera, John D."
+    ],
+    "journal": "Journal of Chemical Theory and Computation",
+    "year_used": 2016,
+    "volume": "12",
+    "issue": "4",
+    "pages_or_article_used": "1799-1805",
+    "crossref_page": "1799-1805",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          23
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          12
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          23
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/acs.jctc.5b00784",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "darden1993",
+    "doi": "10.1063/1.464397",
+    "title": "Particle mesh Ewald: An N ⋅log( N ) method for Ewald sums in large systems",
+    "authors": [
+      "Darden, Tom",
+      "York, Darrin",
+      "Pedersen, Lee"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1993,
+    "volume": "98",
+    "issue": "12",
+    "pages_or_article_used": "10089-10092",
+    "crossref_page": "10089-10092",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1993,
+          6,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1993,
+          6,
+          15
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.464397",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "daw1984",
+    "doi": "10.1103/physrevb.29.6443",
+    "title": "Embedded-atom method: Derivation and application to impurities, surfaces, and other defects in metals",
+    "authors": [
+      "Daw, Murray S.",
+      "Baskes, M. I."
+    ],
+    "journal": "Physical Review B",
+    "year_used": 1984,
+    "volume": "29",
+    "issue": "12",
+    "pages_or_article_used": "6443-6453",
+    "crossref_page": "6443-6453",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1984,
+          6,
+          15
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          1984,
+          6,
+          15
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevb.29.6443",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "deringer2019",
+    "doi": "10.1002/adma.201902765",
+    "title": "Machine Learning Interatomic Potentials as Emerging Tools for Materials Science",
+    "authors": [
+      "Deringer, Volker L.",
+      "Caro, Miguel A.",
+      "Csányi, Gábor"
+    ],
+    "journal": "Advanced Materials",
+    "year_used": 2019,
+    "volume": "31",
+    "issue": "46",
+    "pages_or_article_used": "1902765",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          5
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          5
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1002/adma.201902765",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "dubbeldam2015",
+    "doi": "10.1080/08927022.2015.1010082",
+    "title": "RASPA: molecular simulation software for adsorption and diffusion in flexible nanoporous materials",
+    "authors": [
+      "Dubbeldam, David",
+      "Calero, Sofía",
+      "Ellis, Donald E.",
+      "Snurr, Randall Q."
+    ],
+    "journal": "Molecular Simulation",
+    "year_used": 2016,
+    "volume": "42",
+    "issue": "2",
+    "pages_or_article_used": "81-101",
+    "crossref_page": "81-101",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          26
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          22
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          26
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1080/08927022.2015.1010082",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "eastman2017",
+    "doi": "10.1371/journal.pcbi.1005659",
+    "title": "OpenMM 7: Rapid development of high performance algorithms for molecular dynamics",
+    "authors": [
+      "Eastman, Peter",
+      "Swails, Jason",
+      "Chodera, John D.",
+      "McGibbon, Robert T.",
+      "Zhao, Yutong",
+      "Beauchamp, Kyle A.",
+      "Wang, Lee-Ping",
+      "Simmonett, Andrew C.",
+      "Harrigan, Matthew P.",
+      "Stern, Chaya D.",
+      "Wiewiora, Rafal P.",
+      "Brooks, Bernard R.",
+      "Pande, Vijay S."
+    ],
+    "journal": "PLOS Computational Biology",
+    "year_used": 2017,
+    "volume": "13",
+    "issue": "7",
+    "pages_or_article_used": "e1005659",
+    "crossref_page": "e1005659",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          26
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          26
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1371/journal.pcbi.1005659",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "flyvbjerg1989",
+    "doi": "10.1063/1.457480",
+    "title": "Error estimates on averages of correlated data",
+    "authors": [
+      "Flyvbjerg, H.",
+      "Petersen, H. G."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1989,
+    "volume": "91",
+    "issue": "1",
+    "pages_or_article_used": "461-466",
+    "crossref_page": "461-466",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1989,
+          7,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1989,
+          7,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.457480",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "foundation2026",
+    "doi": "10.1038/s41570-025-00793-5",
+    "title": "Foundation models for atomistic simulation of chemistry and materials",
+    "authors": [
+      "Yuan, Eric C.-Y.",
+      "Liu, Yunsheng",
+      "Chen, Junmin",
+      "Zhong, Peichen",
+      "Raja, Sanjeev",
+      "Kreiman, Tobias",
+      "Vargas, Santiago",
+      "Xu, Wenbin",
+      "Head-Gordon, Martin",
+      "Yang, Chao",
+      "Blau, Samuel M.",
+      "Cheng, Bingqing",
+      "Krishnapriyan, Aditi",
+      "Head-Gordon, Teresa"
+    ],
+    "journal": "Nature Reviews Chemistry",
+    "year_used": 2026,
+    "volume": "10",
+    "issue": "3",
+    "pages_or_article_used": "212-230",
+    "crossref_page": "212-230",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/s41570-025-00793-5",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "france2019",
+    "doi": "10.1103/physrevlett.122.136001",
+    "title": "Correlations from Ion Pairing and the Nernst-Einstein Equation",
+    "authors": [
+      "France-Lanord, Arthur",
+      "Grossman, Jeffrey C."
+    ],
+    "journal": "Physical Review Letters",
+    "year_used": 2019,
+    "volume": "122",
+    "issue": "13",
+    "pages_or_article_used": "136001",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          3
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          3
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevlett.122.136001",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "gillespie1977",
+    "doi": "10.1021/j100540a008",
+    "title": "Exact stochastic simulation of coupled chemical reactions",
+    "authors": [
+      "Gillespie, Daniel T."
+    ],
+    "journal": "The Journal of Physical Chemistry",
+    "year_used": 1977,
+    "volume": "81",
+    "issue": "25",
+    "pages_or_article_used": "2340-2361",
+    "crossref_page": "2340-2361",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1977,
+          12
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1977,
+          12
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2002,
+          5,
+          1
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/j100540a008",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "gravelle2025",
+    "doi": "10.33011/livecoms.6.1.3037",
+    "title": "A Set of Tutorials for the LAMMPS Simulation Package [Article v1.0]",
+    "authors": [
+      "Gravelle, Simon",
+      "Alvares, Cecilia M. S.",
+      "Gissinger, Jacob R.",
+      "Kohlmeyer, Axel"
+    ],
+    "journal": "Living Journal of Computational Molecular Science",
+    "year_used": 2025,
+    "volume": "6",
+    "issue": "1",
+    "pages_or_article_used": "3037",
+    "crossref_page": "3027",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.33011/livecoms.6.1.3037",
+    "verified_on": "2026-10-11",
+    "note": "Publisher article number 3037 used; Crossref page field retrieved as 3027.",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "green1954",
+    "doi": "10.1063/1.1740082",
+    "title": "Markoff Random Processes and the Statistical Mechanics of Time-Dependent Phenomena. II. Irreversible Processes in Fluids",
+    "authors": [
+      "Green, Melville S."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1954,
+    "volume": "22",
+    "issue": "3",
+    "pages_or_article_used": "398-413",
+    "crossref_page": "398-413",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1954,
+          3,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1954,
+          3,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.1740082",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "grossfield2018",
+    "doi": "10.33011/livecoms.1.1.5067",
+    "title": "Best Practices for Quantification of Uncertainty and Sampling Quality in Molecular Simulations [Article v1.0]",
+    "authors": [
+      "Grossfield, Alan",
+      "Patrone, Paul N.",
+      "Roe, Daniel R.",
+      "Schultz, Andrew J.",
+      "Siderius, Daniel W.",
+      "Zuckerman, Daniel M."
+    ],
+    "journal": "Living Journal of Computational Molecular Science",
+    "year_used": 2018,
+    "volume": "1",
+    "issue": "1",
+    "pages_or_article_used": "5067",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.33011/livecoms.1.1.5067",
+    "verified_on": "2026-10-11",
+    "note": "PubMed/PMC and NIST give 2018; Crossref/publisher issue metadata gives 2019. Article 5067.",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "han2008",
+    "doi": "10.1021/ja803247y",
+    "title": "Covalent Organic Frameworks as Exceptional Hydrogen Storage Materials",
+    "authors": [
+      "Han, Sang Soo",
+      "Furukawa, Hiroyasu",
+      "Yaghi, Omar M.",
+      "Goddard, III, William A."
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "year_used": 2008,
+    "volume": "130",
+    "issue": "35",
+    "pages_or_article_used": "11580-11581",
+    "crossref_page": "11580-11581",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          7
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          3
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          7
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/ja803247y",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "han2009",
+    "doi": "10.1039/b802430h",
+    "title": "Recent advances on simulation and theory of hydrogen storage in metal–organic frameworks and covalent organic frameworks",
+    "authors": [
+      "Han, Sang Soo",
+      "Mendoza-Cortés, José L.",
+      "Goddard III, William A."
+    ],
+    "journal": "Chemical Society Reviews",
+    "year_used": 2009,
+    "volume": "38",
+    "issue": "5",
+    "pages_or_article_used": "1460",
+    "crossref_page": "1460",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1039/b802430h",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "hastings1970",
+    "doi": "10.1093/biomet/57.1.97",
+    "title": "Monte Carlo sampling methods using Markov chains and their applications",
+    "authors": [
+      "Hastings, W. K."
+    ],
+    "journal": "Biometrika",
+    "year_used": 1970,
+    "volume": "57",
+    "issue": "1",
+    "pages_or_article_used": "97-109",
+    "crossref_page": "97-109",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1970,
+          4,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1970,
+          4,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1093/biomet/57.1.97",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "hoover1985",
+    "doi": "10.1103/physreva.31.1695",
+    "title": "Canonical dynamics: Equilibrium phase-space distributions",
+    "authors": [
+      "Hoover, William G."
+    ],
+    "journal": "Physical Review A",
+    "year_used": 1985,
+    "volume": "31",
+    "issue": "3",
+    "pages_or_article_used": "1695-1697",
+    "crossref_page": "1695-1697",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1985,
+          3,
+          1
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          1985,
+          3,
+          1
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physreva.31.1695",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "humphrey1996",
+    "doi": "10.1016/0263-7855(96)00018-5",
+    "title": "VMD: Visual molecular dynamics",
+    "authors": [
+      "Humphrey, William",
+      "Dalke, Andrew",
+      "Schulten, Klaus"
+    ],
+    "journal": "Journal of Molecular Graphics",
+    "year_used": 1996,
+    "volume": "14",
+    "issue": "1",
+    "pages_or_article_used": "33-38",
+    "crossref_page": "33-38",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1996,
+          2
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1996,
+          2
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/0263-7855(96)00018-5",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "jorgensen1983",
+    "doi": "10.1063/1.445869",
+    "title": "Comparison of simple potential functions for simulating liquid water",
+    "authors": [
+      "Jorgensen, William L.",
+      "Chandrasekhar, Jayaraman",
+      "Madura, Jeffry D.",
+      "Impey, Roger W.",
+      "Klein, Michael L."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1983,
+    "volume": "79",
+    "issue": "2",
+    "pages_or_article_used": "926-935",
+    "crossref_page": "926-935",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1983,
+          7,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1983,
+          7,
+          15
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.445869",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "kapil2019",
+    "doi": "10.1016/j.cpc.2018.09.020",
+    "title": "i-PI 2.0: A universal force engine for advanced molecular simulations",
+    "authors": [
+      "Kapil, Venkat",
+      "Rossi, Mariana",
+      "Marsalek, Ondrej",
+      "Petraglia, Riccardo",
+      "Litman, Yair",
+      "Spura, Thomas",
+      "Cheng, Bingqing",
+      "Cuzzocrea, Alice",
+      "Meißner, Robert H.",
+      "Wilkins, David M.",
+      "Helfrecht, Benjamin A.",
+      "Juda, Przemysław",
+      "Bienvenue, Sébastien P.",
+      "Fang, Wei",
+      "Kessler, Jan",
+      "Poltavsky, Igor",
+      "Vandenbrande, Steven",
+      "Wieme, Jelle",
+      "Corminboeuf, Clemence",
+      "Kühne, Thomas D.",
+      "Manolopoulos, David E.",
+      "Markland, Thomas E.",
+      "Richardson, Jeremy O.",
+      "Tkatchenko, Alexandre",
+      "Tribello, Gareth A.",
+      "Van Speybroeck, Veronique",
+      "Ceriotti, Michele"
+    ],
+    "journal": "Computer Physics Communications",
+    "year_used": 2019,
+    "volume": "236",
+    "issue": null,
+    "pages_or_article_used": "214-223",
+    "crossref_page": "214-223",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/j.cpc.2018.09.020",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "kremer1990",
+    "doi": "10.1063/1.458541",
+    "title": "Dynamics of entangled linear polymer melts: A molecular-dynamics simulation",
+    "authors": [
+      "Kremer, Kurt",
+      "Grest, Gary S."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1990,
+    "volume": "92",
+    "issue": "8",
+    "pages_or_article_used": "5057-5086",
+    "crossref_page": "5057-5086",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1990,
+          4,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1990,
+          4,
+          15
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.458541",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "kubo1957",
+    "doi": "10.1143/jpsj.12.570",
+    "title": "Statistical-Mechanical Theory of Irreversible Processes. I. General Theory and Simple Applications to Magnetic and Conduction Problems",
+    "authors": [
+      "Kubo, Ryogo"
+    ],
+    "journal": "Journal of the Physical Society of Japan",
+    "year_used": 1957,
+    "volume": "12",
+    "issue": "6",
+    "pages_or_article_used": "570-586",
+    "crossref_page": "570-586",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1957,
+          6
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1957,
+          6
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1143/jpsj.12.570",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "kuhne2020",
+    "doi": "10.1063/5.0007045",
+    "title": "CP2K: An electronic structure and molecular dynamics software package - Quickstep: Efficient and accurate electronic structure calculations",
+    "authors": [
+      "Kühne, Thomas D.",
+      "Iannuzzi, Marcella",
+      "Del Ben, Mauro",
+      "Rybkin, Vladimir V.",
+      "Seewald, Patrick",
+      "Stein, Frederick",
+      "Laino, Teodoro",
+      "Khaliullin, Rustam Z.",
+      "Schütt, Ole",
+      "Schiffmann, Florian",
+      "Golze, Dorothea",
+      "Wilhelm, Jan",
+      "Chulkov, Sergey",
+      "Bani-Hashemian, Mohammad Hossein",
+      "Weber, Valéry",
+      "Borštnik, Urban",
+      "Taillefumier, Mathieu",
+      "Jakobovits, Alice Shoshana",
+      "Lazzaro, Alfio",
+      "Pabst, Hans",
+      "Müller, Tiziano",
+      "Schade, Robert",
+      "Guidon, Manuel",
+      "Andermatt, Samuel",
+      "Holmberg, Nico",
+      "Schenter, Gregory K.",
+      "Hehn, Anna",
+      "Bussy, Augustin",
+      "Belleflamme, Fabian",
+      "Tabacchi, Gloria",
+      "Glöß, Andreas",
+      "Lass, Michael",
+      "Bethune, Iain",
+      "Mundy, Christopher J.",
+      "Plessl, Christian",
+      "Watkins, Matt",
+      "VandeVondele, Joost",
+      "Krack, Matthias",
+      "Hutter, Jürg"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2020,
+    "volume": "152",
+    "issue": "19",
+    "pages_or_article_used": "194103",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          19
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          21
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          19
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/5.0007045",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "kumar1992",
+    "doi": "10.1002/jcc.540130812",
+    "title": "THE weighted histogram analysis method for free‐energy calculations on biomolecules. I. The method",
+    "authors": [
+      "Kumar, Shankar",
+      "Rosenberg, John M.",
+      "Bouzida, Djamal",
+      "Swendsen, Robert H.",
+      "Kollman, Peter A."
+    ],
+    "journal": "Journal of Computational Chemistry",
+    "year_used": 1992,
+    "volume": "13",
+    "issue": "8",
+    "pages_or_article_used": "1011-1021",
+    "crossref_page": "1011-1021",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1992,
+          10
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1992,
+          10
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2004,
+          9,
+          7
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1002/jcc.540130812",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "laasonen1993",
+    "doi": "10.1063/1.465574",
+    "title": "‘‘Ab initio’’ liquid water",
+    "authors": [
+      "Laasonen, K.",
+      "Sprik, M.",
+      "Parrinello, M.",
+      "Car, R."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1993,
+    "volume": "99",
+    "issue": "11",
+    "pages_or_article_used": "9080-9089",
+    "crossref_page": "9080-9089",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1993,
+          12,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1993,
+          12,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.465574",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "laio2002",
+    "doi": "10.1073/pnas.202427399",
+    "title": "Escaping free-energy minima",
+    "authors": [
+      "Laio, Alessandro",
+      "Parrinello, Michele"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year_used": 2002,
+    "volume": "99",
+    "issue": "20",
+    "pages_or_article_used": "12562-12566",
+    "crossref_page": "12562-12566",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          23
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2002,
+          10
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          23
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1073/pnas.202427399",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "larsen2017",
+    "doi": "10.1088/1361-648x/aa680e",
+    "title": "The atomic simulation environment—a Python library for working with atoms",
+    "authors": [
+      "Hjorth Larsen, Ask",
+      "Jørgen Mortensen, Jens",
+      "Blomqvist, Jakob",
+      "Castelli, Ivano E",
+      "Christensen, Rune",
+      "Dułak, Marcin",
+      "Friis, Jesper",
+      "Groves, Michael N",
+      "Hammer, Bjørk",
+      "Hargus, Cory",
+      "Hermes, Eric D",
+      "Jennings, Paul C",
+      "Bjerre Jensen, Peter",
+      "Kermode, James",
+      "Kitchin, John R",
+      "Leonhard Kolsbjerg, Esben",
+      "Kubal, Joseph",
+      "Kaasbjerg, Kristen",
+      "Lysgaard, Steen",
+      "Bergmann Maronsson, Jón",
+      "Maxson, Tristan",
+      "Olsen, Thomas",
+      "Pastewka, Lars",
+      "Peterson, Andrew",
+      "Rostgaard, Carsten",
+      "Schiøtz, Jakob",
+      "Schütt, Ole",
+      "Strange, Mikkel",
+      "Thygesen, Kristian S",
+      "Vegge, Tejs",
+      "Vilhelmsen, Lasse",
+      "Walter, Michael",
+      "Zeng, Zhenhua",
+      "Jacobsen, Karsten W"
+    ],
+    "journal": "Journal of Physics: Condensed Matter",
+    "year_used": 2017,
+    "volume": "29",
+    "issue": "27",
+    "pages_or_article_used": "273002",
+    "crossref_page": "273002",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          7
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          12
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          7
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1088/1361-648x/aa680e",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "leimkuhler2013",
+    "doi": "10.1063/1.4802990",
+    "title": "Robust and efficient configurational molecular sampling via Langevin dynamics",
+    "authors": [
+      "Leimkuhler, Benedict",
+      "Matthews, Charles"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2013,
+    "volume": "138",
+    "issue": "17",
+    "pages_or_article_used": "174102",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          7
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          1
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/1.4802990",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "markland2018",
+    "doi": "10.1038/s41570-017-0109",
+    "title": "Nuclear quantum effects enter the mainstream",
+    "authors": [
+      "Markland, Thomas E.",
+      "Ceriotti, Michele"
+    ],
+    "journal": "Nature Reviews Chemistry",
+    "year_used": 2018,
+    "volume": "2",
+    "issue": "3",
+    "pages_or_article_used": "0109",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          28
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          28
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/s41570-017-0109",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "marrink2007",
+    "doi": "10.1021/jp071097f",
+    "title": "The MARTINI Force Field: Coarse Grained Model for Biomolecular Simulations",
+    "authors": [
+      "Marrink, Siewert J.",
+      "Risselada, H. Jelger",
+      "Yefimov, Serge",
+      "Tieleman, D. Peter",
+      "de Vries, Alex H."
+    ],
+    "journal": "The Journal of Physical Chemistry B",
+    "year_used": 2007,
+    "volume": "111",
+    "issue": "27",
+    "pages_or_article_used": "7812-7824",
+    "crossref_page": "7812-7824",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2007,
+          7,
+          1
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2007,
+          6,
+          15
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/jp071097f",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "martin1998",
+    "doi": "10.1021/jp972543+",
+    "title": "Transferable Potentials for Phase Equilibria. 1. United-Atom Description of n -Alkanes",
+    "authors": [
+      "Martin, Marcus G.",
+      "Siepmann, J. Ilja"
+    ],
+    "journal": "The Journal of Physical Chemistry B",
+    "year_used": 1998,
+    "volume": "102",
+    "issue": "14",
+    "pages_or_article_used": "2569-2577",
+    "crossref_page": "2569-2577",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1998,
+          3,
+          17
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1998,
+          4,
+          1
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          1998,
+          3,
+          17
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/jp972543+",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "metropolis1953",
+    "doi": "10.1063/1.1699114",
+    "title": "Equation of State Calculations by Fast Computing Machines",
+    "authors": [
+      "Metropolis, Nicholas",
+      "Rosenbluth, Arianna W.",
+      "Rosenbluth, Marshall N.",
+      "Teller, Augusta H.",
+      "Teller, Edward"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1953,
+    "volume": "21",
+    "issue": "6",
+    "pages_or_article_used": "1087-1092",
+    "crossref_page": "1087-1092",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1953,
+          6,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1953,
+          6,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.1699114",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "michaelides2003",
+    "doi": "10.1103/physrevlett.90.216102",
+    "title": "General Model for Water Monomer Adsorption on Close-Packed Transition and Noble Metal Surfaces",
+    "authors": [
+      "Michaelides, A.",
+      "Ranea, V. A.",
+      "de Andres, P. L.",
+      "King, D. A."
+    ],
+    "journal": "Physical Review Letters",
+    "year_used": 2003,
+    "volume": "90",
+    "issue": "21",
+    "pages_or_article_used": "216102",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2003,
+          5,
+          27
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2003,
+          5,
+          27
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevlett.90.216102",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "michaelides2016",
+    "doi": "10.1063/1.4944633",
+    "title": "Perspective: How good is DFT for water?",
+    "authors": [
+      "Gillan, Michael J.",
+      "Alfè, Dario",
+      "Michaelides, Angelos"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2016,
+    "volume": "144",
+    "issue": "13",
+    "pages_or_article_used": "130901",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          7
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          1
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/1.4944633",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "michaud2011",
+    "doi": "10.1002/jcc.21787",
+    "title": "MDAnalysis: A toolkit for the analysis of molecular dynamics simulations",
+    "authors": [
+      "Michaud‐Agrawal, Naveen",
+      "Denning, Elizabeth J.",
+      "Woolf, Thomas B.",
+      "Beckstein, Oliver"
+    ],
+    "journal": "Journal of Computational Chemistry",
+    "year_used": 2011,
+    "volume": "32",
+    "issue": "10",
+    "pages_or_article_used": "2319-2327",
+    "crossref_page": "2319-2327",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2011,
+          7,
+          30
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          15
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1002/jcc.21787",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "nose1984",
+    "doi": "10.1063/1.447334",
+    "title": "A unified formulation of the constant temperature molecular dynamics methods",
+    "authors": [
+      "Nosé, Shuichi"
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1984,
+    "volume": "81",
+    "issue": "1",
+    "pages_or_article_used": "511-519",
+    "crossref_page": "511-519",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1984,
+          7,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1984,
+          7,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.447334",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "oxide2019",
+    "doi": "10.1021/acsomega.8b03350",
+    "title": "Water Adsorption on MO2 (M = Ti, Ru, and Ir) Surfaces. Importance of Octahedral Distortion and Cooperative Effects",
+    "authors": [
+      "González, Danilo",
+      "Heras-Domingo, Javier",
+      "Pantaleone, Stefano",
+      "Rimola, Albert",
+      "Rodríguez-Santiago, Luis",
+      "Solans-Monfort, Xavier",
+      "Sodupe, Mariona"
+    ],
+    "journal": "ACS Omega",
+    "year_used": 2019,
+    "volume": "4",
+    "issue": "2",
+    "pages_or_article_used": "2989-2999",
+    "crossref_page": "2989-2999",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          11
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          28
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          11
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/acsomega.8b03350",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "parrinello1981",
+    "doi": "10.1063/1.328693",
+    "title": "Polymorphic transitions in single crystals: A new molecular dynamics method",
+    "authors": [
+      "Parrinello, M.",
+      "Rahman, A."
+    ],
+    "journal": "Journal of Applied Physics",
+    "year_used": 1981,
+    "volume": "52",
+    "issue": "12",
+    "pages_or_article_used": "7182-7190",
+    "crossref_page": "7182-7190",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1981,
+          12,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1981,
+          12,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.328693",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "rahman1964",
+    "doi": "10.1103/physrev.136.a405",
+    "title": "Correlations in the Motion of Atoms in Liquid Argon",
+    "authors": [
+      "Rahman, A."
+    ],
+    "journal": "Physical Review",
+    "year_used": 1964,
+    "volume": "136",
+    "issue": "2A",
+    "pages_or_article_used": "A405-A411",
+    "crossref_page": "A405-A411",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1964,
+          10,
+          19
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          1964,
+          10,
+          19
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrev.136.a405",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "ran2024",
+    "doi": "10.1063/5.0226249",
+    "title": "RASPA3: A Monte Carlo code for computing adsorption and diffusion in nanoporous materials and thermodynamics properties of fluids",
+    "authors": [
+      "Ran, Y. A.",
+      "Sharma, S.",
+      "Balestra, S. R. G.",
+      "Li, Z.",
+      "Calero, S.",
+      "Vlugt, T. J. H.",
+      "Snurr, R. Q.",
+      "Dubbeldam, D."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2024,
+    "volume": "161",
+    "issue": "11",
+    "pages_or_article_used": "114106",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          16
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          21
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          16
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/5.0226249",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "reuter2004",
+    "doi": "10.1103/physrevlett.93.116105",
+    "title": "The Steady State of Heterogeneous Catalysis, Studied by First-Principles Statistical Mechanics",
+    "authors": [
+      "Reuter, Karsten",
+      "Frenkel, Daan",
+      "Scheffler, Matthias"
+    ],
+    "journal": "Physical Review Letters",
+    "year_used": 2004,
+    "volume": "93",
+    "issue": "11",
+    "pages_or_article_used": "116105",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2004,
+          9,
+          10
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2004,
+          9,
+          10
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevlett.93.116105",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "reuter2006",
+    "doi": "10.1103/physrevb.73.045433",
+    "title": "First-principles kinetic Monte Carlo simulations for heterogeneous catalysis: Application to the CO oxidation atRuO2(110)",
+    "authors": [
+      "Reuter, Karsten",
+      "Scheffler, Matthias"
+    ],
+    "journal": "Physical Review B",
+    "year_used": 2006,
+    "volume": "73",
+    "issue": "4",
+    "pages_or_article_used": "045433",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          26
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          26
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrevb.73.045433",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "roux1995",
+    "doi": "10.1016/0010-4655(95)00053-i",
+    "title": "The calculation of the potential of mean force using computer simulations",
+    "authors": [
+      "Roux, Benoît"
+    ],
+    "journal": "Computer Physics Communications",
+    "year_used": 1995,
+    "volume": "91",
+    "issue": "1-3",
+    "pages_or_article_used": "275-282",
+    "crossref_page": "275-282",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1995,
+          9
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1995,
+          9
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/0010-4655(95)00053-i",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "ryckaert1977",
+    "doi": "10.1016/0021-9991(77)90098-5",
+    "title": "Numerical integration of the cartesian equations of motion of a system with constraints: molecular dynamics of n-alkanes",
+    "authors": [
+      "Ryckaert, Jean-Paul",
+      "Ciccotti, Giovanni",
+      "Berendsen, Herman J.C"
+    ],
+    "journal": "Journal of Computational Physics",
+    "year_used": 1977,
+    "volume": "23",
+    "issue": "3",
+    "pages_or_article_used": "327-341",
+    "crossref_page": "327-341",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1977,
+          3
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1977,
+          3
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/0021-9991(77)90098-5",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "senftle2016",
+    "doi": "10.1038/npjcompumats.2015.11",
+    "title": "The ReaxFF reactive force-field: development, applications and future directions",
+    "authors": [
+      "Senftle, Thomas P",
+      "Hong, Sungwook",
+      "Islam, Md Mahbubul",
+      "Kylasa, Sudhir B",
+      "Zheng, Yuanxia",
+      "Shin, Yun Kyung",
+      "Junkermeier, Chad",
+      "Engel-Herbert, Roman",
+      "Janik, Michael J",
+      "Aktulga, Hasan Metin",
+      "Verstraelen, Toon",
+      "Grama, Ananth",
+      "van Duin, Adri C T"
+    ],
+    "journal": "npj Computational Materials",
+    "year_used": 2016,
+    "volume": "2",
+    "issue": "1",
+    "pages_or_article_used": "15011",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          4
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          4
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/npjcompumats.2015.11",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "shirts2008",
+    "doi": "10.1063/1.2978177",
+    "title": "Statistically optimal analysis of samples from multiple equilibrium states",
+    "authors": [
+      "Shirts, Michael R.",
+      "Chodera, John D."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 2008,
+    "volume": "129",
+    "issue": "12",
+    "pages_or_article_used": "124105",
+    "crossref_page": null,
+    "crossref_published": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          23
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          28
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          23
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1063/1.2978177",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "snurr1997",
+    "doi": "10.1021/jp970242u",
+    "title": "Molecular Simulations and NMR Measurements of Binary Diffusion in Zeolites",
+    "authors": [
+      "Snurr, Randall Q.",
+      "Kärger, Jörg"
+    ],
+    "journal": "The Journal of Physical Chemistry B",
+    "year_used": 1997,
+    "volume": "101",
+    "issue": "33",
+    "pages_or_article_used": "6469-6473",
+    "crossref_page": "6469-6473",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          1
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          14
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/jp970242u",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "souza2021",
+    "doi": "10.1038/s41592-021-01098-3",
+    "title": "Martini 3: a general purpose force field for coarse-grained molecular dynamics",
+    "authors": [
+      "Souza, Paulo C. T.",
+      "Alessandri, Riccardo",
+      "Barnoud, Jonathan",
+      "Thallmair, Sebastian",
+      "Faustino, Ignacio",
+      "Grünewald, Fabian",
+      "Patmanidis, Ilias",
+      "Abdizadeh, Haleh",
+      "Bruininks, Bart M. H.",
+      "Wassenaar, Tsjerk A.",
+      "Kroon, Peter C.",
+      "Melcr, Josef",
+      "Nieto, Vincent",
+      "Corradi, Valentina",
+      "Khan, Hanif M.",
+      "Domański, Jan",
+      "Javanainen, Matti",
+      "Martinez-Seara, Hector",
+      "Reuter, Nathalie",
+      "Best, Robert B.",
+      "Vattulainen, Ilpo",
+      "Monticelli, Luca",
+      "Periole, Xavier",
+      "Tieleman, D. Peter",
+      "de Vries, Alex H.",
+      "Marrink, Siewert J."
+    ],
+    "journal": "Nature Methods",
+    "year_used": 2021,
+    "volume": "18",
+    "issue": "4",
+    "pages_or_article_used": "382-388",
+    "crossref_page": "382-388",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2021,
+          4
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/s41592-021-01098-3",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "stukowski2010",
+    "doi": "10.1088/0965-0393/18/1/015012",
+    "title": "Visualization and analysis of atomistic simulation data with OVITO–the Open Visualization Tool",
+    "authors": [
+      "Stukowski, Alexander"
+    ],
+    "journal": "Modelling and Simulation in Materials Science and Engineering",
+    "year_used": 2010,
+    "volume": "18",
+    "issue": "1",
+    "pages_or_article_used": "015012",
+    "crossref_page": "015012",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          1
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          15
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1088/0965-0393/18/1/015012",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "sugita1999",
+    "doi": "10.1016/s0009-2614(99)01123-9",
+    "title": "Replica-exchange molecular dynamics method for protein folding",
+    "authors": [
+      "Sugita, Yuji",
+      "Okamoto, Yuko"
+    ],
+    "journal": "Chemical Physics Letters",
+    "year_used": 1999,
+    "volume": "314",
+    "issue": "1-2",
+    "pages_or_article_used": "141-151",
+    "crossref_page": "141-151",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1999,
+          11
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1999,
+          11
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/s0009-2614(99)01123-9",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "thompson2022",
+    "doi": "10.1016/j.cpc.2021.108171",
+    "title": "LAMMPS - a flexible simulation tool for particle-based materials modeling at the atomic, meso, and continuum scales",
+    "authors": [
+      "Thompson, Aidan P.",
+      "Aktulga, H. Metin",
+      "Berger, Richard",
+      "Bolintineanu, Dan S.",
+      "Brown, W. Michael",
+      "Crozier, Paul S.",
+      "in 't Veld, Pieter J.",
+      "Kohlmeyer, Axel",
+      "Moore, Stan G.",
+      "Nguyen, Trung Dac",
+      "Shan, Ray",
+      "Stevens, Mark J.",
+      "Tranchida, Julien",
+      "Trott, Christian",
+      "Plimpton, Steven J."
+    ],
+    "journal": "Computer Physics Communications",
+    "year_used": 2022,
+    "volume": "271",
+    "issue": null,
+    "pages_or_article_used": "108171",
+    "crossref_page": "108171",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2022,
+          2
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2022,
+          2
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/j.cpc.2021.108171",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "torrie1977",
+    "doi": "10.1016/0021-9991(77)90121-8",
+    "title": "Nonphysical sampling distributions in Monte Carlo free-energy estimation: Umbrella sampling",
+    "authors": [
+      "Torrie, G.M.",
+      "Valleau, J.P."
+    ],
+    "journal": "Journal of Computational Physics",
+    "year_used": 1977,
+    "volume": "23",
+    "issue": "2",
+    "pages_or_article_used": "187-199",
+    "crossref_page": "187-199",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1977,
+          2
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1977,
+          2
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/0021-9991(77)90121-8",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "tribello2014",
+    "doi": "10.1016/j.cpc.2013.09.018",
+    "title": "PLUMED 2: New feathers for an old bird",
+    "authors": [
+      "Tribello, Gareth A.",
+      "Bonomi, Massimiliano",
+      "Branduardi, Davide",
+      "Camilloni, Carlo",
+      "Bussi, Giovanni"
+    ],
+    "journal": "Computer Physics Communications",
+    "year_used": 2014,
+    "volume": "185",
+    "issue": "2",
+    "pages_or_article_used": "604-613",
+    "crossref_page": "604-613",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2014,
+          2
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2014,
+          2
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/j.cpc.2013.09.018",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "van_duin2001",
+    "doi": "10.1021/jp004368u",
+    "title": "ReaxFF: A Reactive Force Field for Hydrocarbons",
+    "authors": [
+      "van Duin, Adri C. T.",
+      "Dasgupta, Siddharth",
+      "Lorant, Francois",
+      "Goddard, William A."
+    ],
+    "journal": "The Journal of Physical Chemistry A",
+    "year_used": 2001,
+    "volume": "105",
+    "issue": "41",
+    "pages_or_article_used": "9396-9409",
+    "crossref_page": "9396-9409",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2001,
+          9,
+          22
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2001,
+          10,
+          1
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2001,
+          9,
+          22
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/jp004368u",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "vandevondele2005",
+    "doi": "10.1016/j.cpc.2004.12.014",
+    "title": "Quickstep: Fast and accurate density functional calculations using a mixed Gaussian and plane waves approach",
+    "authors": [
+      "VandeVondele, Joost",
+      "Krack, Matthias",
+      "Mohamed, Fawzi",
+      "Parrinello, Michele",
+      "Chassaing, Thomas",
+      "Hutter, Jürg"
+    ],
+    "journal": "Computer Physics Communications",
+    "year_used": 2005,
+    "volume": "167",
+    "issue": "2",
+    "pages_or_article_used": "103-128",
+    "crossref_page": "103-128",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2005,
+          4
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2005,
+          4
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1016/j.cpc.2004.12.014",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "vega2011",
+    "doi": "10.1039/c1cp22168j",
+    "title": "Simulating water with rigid non-polarizable models: a general perspective",
+    "authors": [
+      "Vega, Carlos",
+      "Abascal, Jose L. F."
+    ],
+    "journal": "Physical Chemistry Chemical Physics",
+    "year_used": 2011,
+    "volume": "13",
+    "issue": "44",
+    "pages_or_article_used": "19663",
+    "crossref_page": "19663",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1039/c1cp22168j",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "verlet1967",
+    "doi": "10.1103/physrev.159.98",
+    "title": "Computer \"Experiments\" on Classical Fluids. I. Thermodynamical Properties of Lennard-Jones Molecules",
+    "authors": [
+      "Verlet, Loup"
+    ],
+    "journal": "Physical Review",
+    "year_used": 1967,
+    "volume": "159",
+    "issue": "1",
+    "pages_or_article_used": "98-103",
+    "crossref_page": "98-103",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1967,
+          7,
+          5
+        ]
+      ]
+    },
+    "crossref_print": null,
+    "crossref_online": {
+      "date-parts": [
+        [
+          1967,
+          7,
+          5
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1103/physrev.159.98",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "wilmer2012",
+    "doi": "10.1038/nchem.1192",
+    "title": "Large-scale screening of hypothetical metal–organic frameworks",
+    "authors": [
+      "Wilmer, Christopher E.",
+      "Leaf, Michael",
+      "Lee, Chang Yeon",
+      "Farha, Omar K.",
+      "Hauser, Brad G.",
+      "Hupp, Joseph T.",
+      "Snurr, Randall Q."
+    ],
+    "journal": "Nature Chemistry",
+    "year_used": 2012,
+    "volume": "4",
+    "issue": "2",
+    "pages_or_article_used": "83-89",
+    "crossref_page": "83-89",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2011,
+          11,
+          6
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2012,
+          2
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2011,
+          11,
+          6
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1038/nchem.1192",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "yeh2004",
+    "doi": "10.1021/jp0477147",
+    "title": "System-Size Dependence of Diffusion Coefficients and Viscosities from Molecular Dynamics Simulations with Periodic Boundary Conditions",
+    "authors": [
+      "Yeh, In-Chul",
+      "Hummer, Gerhard"
+    ],
+    "journal": "The Journal of Physical Chemistry B",
+    "year_used": 2004,
+    "volume": "108",
+    "issue": "40",
+    "pages_or_article_used": "15873-15879",
+    "crossref_page": "15873-15879",
+    "crossref_published": {
+      "date-parts": [
+        [
+          2004,
+          9,
+          15
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          2004,
+          10,
+          1
+        ]
+      ]
+    },
+    "crossref_online": {
+      "date-parts": [
+        [
+          2004,
+          9,
+          15
+        ]
+      ]
+    },
+    "source": "https://api.crossref.org/works/10.1021/jp0477147",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "zwanzig1954",
+    "doi": "10.1063/1.1740409",
+    "title": "High-Temperature Equation of State by a Perturbation Method. I. Nonpolar Gases",
+    "authors": [
+      "Zwanzig, Robert W."
+    ],
+    "journal": "The Journal of Chemical Physics",
+    "year_used": 1954,
+    "volume": "22",
+    "issue": "8",
+    "pages_or_article_used": "1420-1426",
+    "crossref_page": "1420-1426",
+    "crossref_published": {
+      "date-parts": [
+        [
+          1954,
+          8,
+          1
+        ]
+      ]
+    },
+    "crossref_print": {
+      "date-parts": [
+        [
+          1954,
+          8,
+          1
+        ]
+      ]
+    },
+    "crossref_online": null,
+    "source": "https://api.crossref.org/works/10.1063/1.1740409",
+    "verified_on": "2026-10-11",
+    "note": "",
+    "claim_verification": "Bibliographic identity verified; see application map/source review for claim scope."
+  },
+  {
+    "key": "frenkel2023",
+    "isbn": "9780323902922",
+    "year_used": 2023,
+    "edition": 3,
+    "source": "https://shop.elsevier.com/books/understanding-molecular-simulation/frenkel/978-0-323-90292-2",
+    "verified_on": "2026-10-11"
+  }
+]

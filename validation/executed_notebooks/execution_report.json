@@ -1,0 +1,38 @@
+[
+  {
+    "notebook": "01_statistical_mechanics_and_integrators.ipynb",
+    "code_cells": 4,
+    "status": "executed without error",
+    "mode": "inprocess"
+  },
+  {
+    "notebook": "02_lj_structure_and_dynamics.ipynb",
+    "code_cells": 4,
+    "status": "executed without error",
+    "mode": "inprocess"
+  },
+  {
+    "notebook": "03_uncertainty.ipynb",
+    "code_cells": 3,
+    "status": "executed without error",
+    "mode": "inprocess"
+  },
+  {
+    "notebook": "04_mc_gcmc_kmc.ipynb",
+    "code_cells": 3,
+    "status": "executed without error",
+    "mode": "inprocess"
+  },
+  {
+    "notebook": "05_umbrella_wham.ipynb",
+    "code_cells": 2,
+    "status": "executed without error",
+    "mode": "inprocess"
+  },
+  {
+    "notebook": "06_resources_and_quantum.ipynb",
+    "code_cells": 3,
+    "status": "executed without error",
+    "mode": "inprocess"
+  }
+]
